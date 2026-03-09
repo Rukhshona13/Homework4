@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+
+.box1{
+    padding-top: 20px;
+    padding-bottom: 100px;
+    width: 100%;
+    height: auto;
+    justify-content: space-evenly;
+    display: flex;
+background-color: transparent;
+align-items: center;
+background-color: rgba(245, 222, 179, 0.271);
+
+}
+.box1 p{
+  color: rgba(24, 3, 48, 1);
+}
+.text1{
+    display: flex;
+    gap: 50px;
+}
+.box1 button{
+    width:80px ;
+    height: 40px;
+    background-color: transparent;
+   border:1px solid rgba(85, 0, 136, 1) ;
+   border-radius: 4px;
+}
+.b01{
+display: flex;
+gap: 20px;
+align-items: center;
+}
