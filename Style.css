@@ -297,3 +297,43 @@ padding-right: 1%;
     position: absolute;
    bottom: 1px;
 }
+.box8{
+    padding-top: 40px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+     background-color:rgba(237, 229, 239, 0.606)  ;
+     padding-bottom: 40px;
+}
+.box9{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: rgba(237, 229, 239, 0.606) ;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box9 p{
+    font-size: 14px;
+    color: rgba(24, 3, 48, 1);
+}
+.bb2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.bb1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.box10{
+    width: 100%;
+    height: auto;
+    background-color:  rgba(237, 229, 239, 0.606) ;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+    padding-top: 60px;
+    font-size: 12px;
+}
