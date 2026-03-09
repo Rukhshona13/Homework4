@@ -43,6 +43,7 @@ align-items: center;
     gap: 30px;
     justify-content: center;
     align-items: center;
+   padding-bottom: 20px;
 }
 .box2 h1{
     font-size:96px ;
@@ -80,4 +81,8 @@ outline: none;
 .box02{
     display: flex;
     align-items: center;
+}
+.img1{
+    width: 100%;
+    background-color: rgba(245, 222, 179, 0.089);
 }
