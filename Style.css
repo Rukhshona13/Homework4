@@ -1,7 +1,9 @@
 *{
     margin: 0;
 }
-
+body{
+    overflow-x: hidden;
+}
 
 .box1{
     padding-top: 20px;
@@ -182,4 +184,57 @@ span{
     position: relative;
     bottom: 200px;
     left: 100px;
+}
+.box6{
+    box-sizing: border-box;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100%;
+    height: auto;
+    background-color:rgba(237, 229, 239, 0.606)  ;
+}
+.box06{
+width: 100%;
+height: 724px;
+border: none;
+border-radius: 8px;
+background: linear-gradient(rgba(219, 190, 255, 1),rgba(255, 255, 255, 0),rgba(246, 242, 245, 1));
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-evenly;
+
+}
+.box6 h6{
+    font-size: 36px;
+    color:rgba(24, 3, 48, 1) ;
+    text-align: center;
+    width: 555px;
+}
+table{
+
+    justify-items: center;
+  border-spacing: 10px;
+
+}
+th{
+    width: 202px;
+    
+}
+table img{
+    width: 96px;
+    height: 20px;
+    margin-left: 30%;
+}
+th{
+    font-weight: lighter;
+    text-align: start;
+}
+td{
+  
+   text-align: center;
+}
+.box6 p{
+    color: rgba(85, 0, 136, 1);
+
 }
