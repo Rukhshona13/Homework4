@@ -238,3 +238,62 @@ td{
     color: rgba(85, 0, 136, 1);
 
 }
+.box7{
+    width: 100%;
+    height: auto;
+     background-color:rgba(237, 229, 239, 0.606)  ;
+     box-sizing: border-box;
+     padding: 30px;
+     padding-top: 80px;
+     display: flex;
+     flex-direction: column;
+padding-bottom: 50px;
+gap: 70px;
+}
+.box7 h6{
+   color: rgba(24, 3, 48, 1);
+   font-size: 56px;
+   font-weight: lighter;
+   text-align: center;
+}
+.boxes{
+    display: flex;
+}
+.pink{
+    width: 30%;
+    height: 680px;
+    background-color:rgba(255, 221, 221, 1) ;
+  
+padding-left: 2%;
+padding-right: 2%;
+}
+.frame{
+    position: relative;
+   right: 40px;
+   bottom: 40px;
+}
+.yellow{
+    width: 30%;
+    height: 680px;
+    background-color:rgba(255, 250, 221, 1);
+  position: relative;
+padding-left: 2%;
+padding-right: 1%;
+}
+.cyan{
+    width: 30%;
+    height: 680px;
+    background-color:rgba(191, 237, 229, 1);
+  
+padding-left: 2%;
+padding-right: 1%;
+}
+.frame2{
+    position: relative;
+   right: 40px;
+   bottom: 40px;
+}
+.coffee{
+    position: absolute;
+   bottom: 1px;
+}
