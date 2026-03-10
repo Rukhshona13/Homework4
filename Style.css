@@ -337,3 +337,96 @@ padding-right: 1%;
     padding-top: 60px;
     font-size: 12px;
 }
+
+
+
+@media (max-width:500px){
+.text1{
+    display: none;
+}
+.box1{
+    justify-content: space-between;
+  
+}
+.box2 h1{
+    padding-top: 0;
+    font-size: 80px;
+    text-align: center;
+    width: 400px;
+}
+.box2 p{
+    width:250px ;
+    text-align: center;
+}
+.box02{
+margin-top: 30px;
+}
+.img1{
+    margin-top: 80px;
+}
+
+.box3{
+    flex-direction: column-reverse;
+    gap: 50px;
+}
+.box3 img{
+    width: 90%;
+}
+.box4{
+padding-top: 40px;
+padding-bottom: 40px;
+    flex-direction: column;
+    text-align: center;
+}
+.box5{
+    flex-direction: column;
+    padding-bottom: 50px;
+}
+.box05 h5{
+    font-size: 40px;
+    width: 300px;
+    text-align: center;
+  margin-left: 0;
+}
+li{
+    font-size: 20px;
+}
+.box05 span{
+   margin-left: 80px;
+}
+.box5 img{
+    width: 400px;
+    left: 0;
+    bottom: 0;
+}
+.box6{
+padding-top: 50px;
+padding-left: 0;
+padding-right: 0;
+}
+.box6 h6{
+   font-size: 30px;
+    width: 330px;
+}
+.boxes{
+   align-items: center;
+    flex-direction: column;
+}
+.pink{
+    width: 380px;
+  
+}
+.yellow{
+    width: 380px;
+  
+}
+.cyan{
+    width: 380px;
+  
+}
+.box8 img{
+    width: 52px;
+    height: 25px;
+}
+
+}
